@@ -25,14 +25,14 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Presentación/Foto Marcela.jpeg" width="180"/> | **Guerra Egoavil, Marcela Lindaflor** | Líder de equipo, diseñadora | Liderazgo, planificación, coordinación del equipo, creatividad, diseño de productos, ergonomía y desarrollo de soluciones centradas en el usuario |
-| <img src="/Presentación/Foto Alonso.jpeg" width="180"/> | **Cuadros Huarcaya, Alonso Martín** | Programador | Programación, desarrollo de sistemas, automatización, tecnología y resolución de problemas |
-| <img src="/Presentación/Foto Jahaira.jpeg" width="180"/> | **Castro Huarsocca, Jahaira Q’uorianka** | Documentacióna | Redacción, organización de información, comunicación científica y elaboración de informes |
-| <img src="/Presentación/Foto Diego.jpeg" width="180"/> | **Custodio Gonzales, Diego Joel** | Diseñador | Mejorar prototipos adecuandolos a diferentes contextos e innovar en la creación de soluciones |
-| <img src="/Presentación/Foto Danilo.jpeg" width="180"/> | **Céspedes Huasacca, Oscar Danilo** | Investigación | Investigación científica, búsqueda de información, análisis de datos e innovación en saludn |
-| <img src="/Presentación/Foto Hector.jpeg" width="180"/> | **Bonilla Pantoja, Hector Guillermo** | Programador -  Prototipado | Programación, análisis de datos, simulación, modelacion y prototipado |
+| <img src="/Presentación/Foto Marcela.jpeg" width="300"/> | **Guerra Egoavil, Marcela Lindaflor** | Líder de equipo, diseñadora | Liderazgo, planificación, coordinación del equipo, creatividad, diseño de productos, ergonomía y desarrollo de soluciones centradas en el usuario |
+| <img src="/Presentación/Foto Alonso.jpeg" width="300"/> | **Cuadros Huarcaya, Alonso Martín** | Programador | Programación, desarrollo de sistemas, automatización, tecnología y resolución de problemas |
+| <img src="/Presentación/Foto Jahaira.jpeg" width="300"/> | **Castro Huarsocca, Jahaira Q’uorianka** | Documentacióna | Redacción, organización de información, comunicación científica y elaboración de informes |
+| <img src="/Presentación/Foto Diego.jpeg" width="300"/> | **Custodio Gonzales, Diego Joel** | Diseñador | Mejorar prototipos adecuandolos a diferentes contextos e innovar en la creación de soluciones |
+| <img src="/Presentación/Foto Danilo.jpeg" width="300"/> | **Céspedes Huasacca, Oscar Danilo** | Investigación | Investigación científica, búsqueda de información, análisis de datos e innovación en saludn |
+| <img src="/Presentación/Foto Hector.jpeg" width="300"/> | **Bonilla Pantoja, Hector Guillermo** | Programador -  Prototipado | Programación, análisis de datos, simulación, modelacion y prototipado |
 
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+Este README resume quiénes somos, qué nos motiva y hacia dónde queremos orientar nuestro trabajo durante el curso, con la visión de desarrollar soluciones innovadoras que contribuyan a la salud, el bienestar y el desarrollo tecnológico, en línea con las ODS 3 y 9.
