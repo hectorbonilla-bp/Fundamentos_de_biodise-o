@@ -3,7 +3,7 @@
 Universidad Peruana Cayetano Heredia
 
 ### 🌍 Descripción del Equipo ###
-Somos el Equipo 0X del curso Nombre del curso 202X-1, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.
+Somos el Equipo 02 del curso Fundamentos de Biodiseño 2026-1, conformado por estudiantes de la carrera de Ingeniería Biomédica.
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
