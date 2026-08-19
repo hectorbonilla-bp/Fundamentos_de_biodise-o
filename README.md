@@ -4,7 +4,7 @@
 
 ---
 
-## 🌍 Descripción del Equipo 
+## 🌍 Descripción del Equipo 02
 Somos el Equipo 02 del curso Fundamentos de Biodiseño 2026-1, conformado por estudiantes de la carrera de Ingeniería Biomédica.
 Nuestro objetivo es aplicar la metodología de diseño para transformar necesidades reales en soluciones innovadoras que respondan de manera efectiva a las personas, contribuyendo a mejorar su salud y bienestar, y promoviendo el desarrollo tecnológico y la innovación.
 
@@ -13,15 +13,15 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 9: Industria, Innovación e Infraestructura  
 ---
 
-## 📸 Fotografía del Equipo  
+## 📸 Fotografía del Equipo 02 
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="/Funai_Equipo_2-main/Presentación/Presentación/WhatsApp Image 2026-08-19 at 3.05.45 PM.jpeg" />
-  <em>Figura 1. Fotografía del equipo 2</em>
+  <em>Figura 1. Fotografía del equipo 02</em>
 </p>
 
 ---
 
-## 👥 Integrantes del Equipo  
+## 👥 Integrantes del Equipo 02 
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
