@@ -1,5 +1,5 @@
 # Equipo 02 - Fundamentos de Biodiseño #
-## Carrera de Ingeniería Ambiental / Informática / Industrial ##
+## Carrera de Ingeniería Biomédica ##
 Universidad Peruana Cayetano Heredia
 
 ### 🌍 Descripción del Equipo ###
@@ -9,8 +9,6 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
 ODS 3: Salud y Bienestar
-ODS 6: Agua Limpia y Saneamiento
 ODS 9: Industria, Innovación e Infraestructura
-ODS 11: Ciudades y Comunidades Sostenibles
-ODS 13: Acción por el Clima
+
 
