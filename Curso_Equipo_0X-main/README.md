@@ -1,20 +1,16 @@
-# Equipo 0X - Nombre del curso
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 02 - Fundamentos de Biodiseño 
+### Carrera de Ingeniería Biomédica 
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Somos el Equipo 02 del curso Fundamentos de Biodiseño 2026-1, conformado por estudiantes de la carrera de Ingeniería Biomédica.
+Nuestro objetivo es aplicar la metodología de diseño para transformar necesidades reales en soluciones innovadoras que respondan de manera efectiva a las personas, contribuyendo a mejorar su salud y bienestar, y promoviendo el desarrollo tecnológico y la innovación.
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
+- ODS 3: Salud y Bienestar    
 - ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
-
 ---
 
 ## 📸 Fotografía del Equipo  
@@ -29,11 +25,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante.jpeg" width="90"/> | **Guerra Egoavil, Marcela Lindaflor** | Líder de equipo, diseñadora | Liderazgo, planificación, coordinación del equipo, creatividad, diseño de productos, ergonomía y desarrollo de soluciones centradas en el usuario |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Cuadros Huarcaya, Alonso Martín** | Programador | Programación, desarrollo de sistemas, automatización, tecnología y resolución de problemas |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Castro Huarsocca, Jahaira Q’uorianka** | Documentacióna | Redacción, organización de información, comunicación científica y elaboración de informes |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Custodio Gonzales, Diego Joel** | Diseñador | Mejorar prototipos adecuandolos a diferentes contextos e innovar en la creación de soluciones |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Céspedes Huasacca, Oscar Danilo** | Investigación | Investigación científica, búsqueda de información, análisis de datos e innovación en saludn |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Bonilla Pantoja, Hector Guillermo** | Programador -  Prototipado | Programación, análisis de datos, simulación, modelacion y prototipado |
 
 ---
 
