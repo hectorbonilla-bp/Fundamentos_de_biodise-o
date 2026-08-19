@@ -15,7 +15,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="/Presentación/WhatsApp Image 2026-08-19 at 3.05.45 PM.jpeg" />
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="/Funai_Equipo_2-main/Presentación/Presentación/WhatsApp Image 2026-08-19 at 3.05.45 PM.jpeg" />
   <em>Figura 1. Fotografía del equipo 2</em>
 </p>
 
