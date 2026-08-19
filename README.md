@@ -25,12 +25,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Marcela.jpeg" width="500"/> | **Guerra Egoavil, Marcela Lindaflor** | Líder de equipo, diseñadora | Liderazgo, planificación, coordinación del equipo, creatividad, diseño de productos, ergonomía y desarrollo de soluciones centradas en el usuario |
-| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Alonso.jpeg" width="550"/> | **Cuadros Huarcaya, Alonso Martín** | Programador | Programación, desarrollo de sistemas, automatización, tecnología y resolución de problemas |
+| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Marcela.jpeg" width="550"/> | **Guerra Egoavil, Marcela Lindaflor** | Líder de equipo, diseñadora | Liderazgo, planificación, coordinación del equipo, creatividad, diseño de productos, ergonomía y desarrollo de soluciones centradas en el usuario |
+| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Alonso.jpeg" width="570"/> | **Cuadros Huarcaya, Alonso Martín** | Programador | Programación, desarrollo de sistemas, automatización, tecnología y resolución de problemas |
 | <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Jahaira.jpeg" width="160"/> | **Castro Huarsocca, Jahaira Q’uorianka** | Documentación | Redacción, organización de información, comunicación científica y elaboración de informes |
 | <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Joel.jpeg" width="400"/> | **Custodio Gonzales, Diego Joel** | Diseñador | Mejorar prototipos adecuandolos a diferentes contextos e innovar en la creación de soluciones |
-| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Danilo.jpeg" width="500"/> | **Céspedes Huasacca, Oscar Danilo** | Investigación | Investigación científica, búsqueda de información, análisis de datos e innovación en saludn |
-| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Hector.jpeg" width="170"/> | **Bonilla Pantoja, Hector Guillermo** | Programador -  Prototipado | Programación, análisis de datos, simulación, modelacion y prototipado |
+| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Danilo.jpeg" width="550"/> | **Céspedes Huasacca, Oscar Danilo** | Investigación | Investigación científica, búsqueda de información, análisis de datos e innovación en saludn |
+| <img src="/Funai_Equipo_2-main/Presentación/Presentación/Foto Hector.jpeg" width="160"/> | **Bonilla Pantoja, Hector Guillermo** | Programador,  Prototipado | Programación, análisis de datos, simulación, modelacion y prototipado |
 
 ---
 
