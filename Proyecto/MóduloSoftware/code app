@@ -1,0 +1,89 @@
+#include <DHT.h>
+#include "BluetoothSerial.h"
+
+#define DHTPIN 4
+#define DHTTYPE DHT22
+
+#define FSR1 34
+#define FSR2 35
+
+DHT dht(DHTPIN, DHTTYPE);
+BluetoothSerial SerialBT;
+
+// Limites establecidos
+const float TEMP_MAX = 38.0;
+const float HUM_MAX = 95.0;
+
+void setup() {
+  Serial.begin(115200);
+
+  SerialBT.begin("OrthoCare");
+
+  pinMode(FSR1, INPUT);
+  pinMode(FSR2, INPUT);
+
+  dht.begin();
+
+  Serial.println("Sistema de monitoreo iniciado");
+  Serial.println("Bluetooth OrthoCare disponible");
+}
+
+void loop() {
+
+  // Lectura de sensores
+  float temperatura = dht.readTemperature();
+  float humedad = dht.readHumidity();
+
+  int lecturaFSR1 = analogRead(FSR1);
+  int lecturaFSR2 = analogRead(FSR2);
+
+  // Verificacion del DHT22
+  if (isnan(temperatura) || isnan(humedad)) {
+    Serial.println("ERROR: Sensor DHT22");
+    delay(2000);
+    return;
+  }
+
+  // Evaluacion de parametros
+  bool alertaTemperatura = temperatura >= TEMP_MAX;
+  bool alertaHumedad = humedad >= HUM_MAX;
+
+  bool alertaGeneral =
+      alertaTemperatura ||
+      alertaHumedad;
+
+  // Mostrar mediciones en Arduino IDE
+  Serial.println("----------------------");
+
+  Serial.print("Temperatura: ");
+  Serial.print(temperatura);
+  Serial.println(" C");
+
+  Serial.print("Humedad: ");
+  Serial.print(humedad);
+  Serial.println(" %");
+
+  Serial.print("Sensor FSR 1: ");
+  Serial.println(lecturaFSR1);
+
+  Serial.print("Sensor FSR 2: ");
+  Serial.println(lecturaFSR2);
+
+  // Enviar datos a OrthoCare
+  SerialBT.print(temperatura, 1);
+  SerialBT.print(",");
+  SerialBT.print(humedad, 1);
+  SerialBT.print(",");
+  SerialBT.print(lecturaFSR1);
+  SerialBT.print(",");
+  SerialBT.println(lecturaFSR2);
+
+  // Estado de alerta
+  if (alertaGeneral) {
+    Serial.println("ALERTA: Parametro fuera del rango");
+  } else {
+    Serial.println("Parametros dentro del rango");
+  }
+
+  delay(2000);
+}
